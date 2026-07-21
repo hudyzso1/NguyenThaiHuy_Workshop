@@ -1,0 +1,54 @@
+<style>
+.ghContributors {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ghContributors > div {
+    width: 50%;
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.ghContributors img {
+    width: 32px;
+    height: 32px;
+    margin-right: 6px;
+}
+
+.ghContributors label {
+    padding-left: 4px;
+}
+
+.ghContributors span {
+    display: block;
+    font-size: 11px;
+    color: gray;
+}
+</style>
+
+{{ $url := .Get 0 }}
+{{ $data := resources.GetRemote $url }}
+
+{{ if $data }}
+    {{ $contributors := $data | transform.Unmarshal }}
+
+    <div class="ghContributors">
+        {{ range $contributors }}
+        <div>
+            <img src="{{ .avatar_url }}" alt="{{ .login }}">
+            <div>
+                <label>
+                    <a href="{{ .html_url }}" target="_blank">
+                        @{{ .login }}
+                    </a>
+                </label>
+                <span>{{ .contributions }} commits</span>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+{{ else }}
+    <p>Không lấy được danh sách contributors.</p>
+{{ end }}
