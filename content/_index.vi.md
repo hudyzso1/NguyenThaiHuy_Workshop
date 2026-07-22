@@ -31,7 +31,7 @@ chapter: false
 
 ## Profile Image
 
-<img src="/images/1.png" alt="Profile Image" width="280">
+<img src="/NguyenThaiHuy_Workshop/1.png" alt="Profile Image" width="280">
 
 ---
 

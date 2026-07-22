@@ -150,14 +150,14 @@ Sự kiện đã tạo động lực để tôi tiếp tục nâng cao kỹ năn
 
 ### Hình ảnh sự kiện
 
-<img src="/images/4-EventParticipated/4.1-Event1/anh1.jpg" alt="Hình ảnh sự kiện AWS First Cloud AI Journey Meet Up 1" width="800">
+<img src="/NguyenThaiHuy_Workshop/4-EventParticipated/4.1-Event1/anh1.jpg" alt="Hình ảnh sự kiện AWS First Cloud AI Journey Meet Up 1" width="800">
 
 <br>
 
-<img src="/images/4-EventParticipated/4.1-Event1/anh2.jpg" alt="Hình ảnh sự kiện AWS First Cloud AI Journey Meet Up 2" width="800">
+<img src="/NguyenThaiHuy_Workshop/4-EventParticipated/4.1-Event1/anh2.jpg" alt="Hình ảnh sự kiện AWS First Cloud AI Journey Meet Up 2" width="800">
 
 <br>
 
-<img src="/images/4-EventParticipated/4.1-Event1/anh3.jpg" alt="Hình ảnh sự kiện AWS First Cloud AI Journey Meet Up 3" width="800">
+<img src="/NguyenThaiHuy_Workshop/4-EventParticipated/4.1-Event1/anh3.jpg" alt="Hình ảnh sự kiện AWS First Cloud AI Journey Meet Up 3" width="800">
 
 > AWS First Cloud AI Journey Meet Up không chỉ là một sự kiện công nghệ mà còn là cơ hội giúp tôi nâng cao kiến thức Cloud, tư duy nghề nghiệp và kỹ năng giao tiếp.

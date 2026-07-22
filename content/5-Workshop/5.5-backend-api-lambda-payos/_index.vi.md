@@ -25,7 +25,7 @@ Cấu hình Lambda Function như sau:
 | **Architecture** | x86_64 |
 | **Execution role** | Create a new role with basic Lambda permissions |
 
-<img src="/images/5-Workshop/5.5-backend-api-lambda-payos/1.png" alt="Tạo Lambda Function cho CyberNet" width="800">
+<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.5-backend-api-lambda-payos/1.png" alt="Tạo Lambda Function cho CyberNet" width="800">
 
 ---
 
@@ -99,7 +99,7 @@ Cấu hình API như sau:
 | **Region** | `ap-southeast-1` |
 
 ---
-<img src="/images/5-Workshop/5.5-backend-api-lambda-payos/1.png" alt="API Gate Way" width="800">
+<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.5-backend-api-lambda-payos/1.png" alt="API Gate Way" width="800">
 
 
 ## 5. Tạo route cho API

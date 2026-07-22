@@ -26,9 +26,9 @@ Configure the VPC as follows:
 | **IPv4 CIDR block** | `10.0.0.0/16` |
 | **Region** | `ap-southeast-1` |
 
-<img src="/images/5-Workshop/5.3-S3-vpc/vpc1.png" alt="Create CyberNet VPC" width="800">
+<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/vpc1.png" alt="Create CyberNet VPC" width="800">
 
-<img src="/images/5-Workshop/5.3-S3-vpc/vpc2.png" alt="VPC Resource Map" width="800">
+<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/vpc2.png" alt="VPC Resource Map" width="800">
 
 ---
 
@@ -41,7 +41,7 @@ Create one public subnet and one private subnet for the CyberNet VPC.
 | `cybernet-public-subnet` | `10.0.1.0/24` | Public resources |
 | `cybernet-private-subnet` | `10.0.2.0/24` | Private backend resources |
 
-<img src="/images/5-Workshop/5.3-S3-vpc/subnet.png" alt="CyberNet Subnets" width="800">
+<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/subnet.png" alt="CyberNet Subnets" width="800">
 
 ---
 
@@ -53,7 +53,7 @@ Create an Internet Gateway and attach it to the CyberNet VPC.
 | :--- | :--- |
 | **Internet Gateway** | `cybernet-igw` |
 
-<img src="/images/5-Workshop/5.3-S3-vpc/getway.png" alt="CyberNet Internet Gateway" width="800">
+<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/getway.png" alt="CyberNet Internet Gateway" width="800">
 
 ---
 
@@ -66,7 +66,7 @@ Create a public route table and add a route to the Internet Gateway.
 | `10.0.0.0/16` | Local |
 | `0.0.0.0/0` | `cybernet-igw` |
 
-<img src="/images/5-Workshop/5.3-S3-vpc/route.png" alt="CyberNet Route Table" width="800">
+<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/route.png" alt="CyberNet Route Table" width="800">
 
 Associate this route table with:
 
