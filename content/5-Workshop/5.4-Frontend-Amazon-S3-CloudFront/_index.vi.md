@@ -26,7 +26,7 @@ Cấu hình bucket như sau:
 | **Object Ownership** | ACLs disabled |
 | **Block Public Access** | Enabled |
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/1.png" alt="Tạo S3 Bucket" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/1.png" alt="Tạo S3 Bucket" width="800">
 
 ---
 
@@ -34,7 +34,7 @@ Cấu hình bucket như sau:
 
 Mở bucket vừa tạo và chọn **Upload**.
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/2.png" alt="Upload Frontend lên S3" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/2.png" alt="Upload Frontend lên S3" width="800">
 
 Upload các file Frontend của CyberNet:
 

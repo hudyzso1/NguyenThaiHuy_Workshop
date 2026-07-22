@@ -31,7 +31,7 @@ chapter: false
 
 ## Ảnh đại diện
 
-<img src="/NguyenThaiHuy_Workshop/1.png" alt="Ảnh đại diện" width="280">
+<img src="/NguyenThaiHuy_Workshop/images/1.png" alt="Ảnh đại diện" width="280">
 
 ---
 

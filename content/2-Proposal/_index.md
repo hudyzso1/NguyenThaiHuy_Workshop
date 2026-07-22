@@ -70,7 +70,7 @@ The high-level system flow is as follows:
 11. Payment Lambda integrates with PayOS to create payment links and handle webhooks.
 12. Amazon CloudWatch collects logs, metrics, and system alerts.
 
-![CyberNet Cloud Architecture](/NguyenThaiHuy_Workshop/2-Proposal/cybernet_architecture.png)
+![CyberNet Cloud Architecture](/NguyenThaiHuy_Workshop/images/2-Proposal/cybernet_architecture.png)
 
 #### AWS Services Used
 

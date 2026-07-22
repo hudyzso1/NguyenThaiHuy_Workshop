@@ -25,7 +25,7 @@ Configure the bucket as follows:
 | **Object Ownership** | ACLs disabled |
 | **Block Public Access** | Enabled |
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/1.png" alt="Create S3 Bucket" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/1.png" alt="Create S3 Bucket" width="800">
 
 ---
 
@@ -33,7 +33,7 @@ Configure the bucket as follows:
 
 Open the created bucket and choose **Upload**.
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/2.png" alt="Upload Frontend Files to S3" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.4-Frontend-Amazon-S3-CloudFront/2.png" alt="Upload Frontend Files to S3" width="800">
 
 Upload the CyberNet frontend files:
 

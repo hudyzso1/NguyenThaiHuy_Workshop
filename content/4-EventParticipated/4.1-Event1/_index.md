@@ -150,14 +150,14 @@ The event motivated me to continue improving my AWS skills and apply the knowled
 
 ### Event Gallery
 
-<img src="/NguyenThaiHuy_Workshop/4-EventParticipated/4.1-Event1/anh1.jpg" alt="AWS First Cloud AI Journey Meet Up - Image 1" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/4-EventParticipated/4.1-Event1/anh1.jpg" alt="AWS First Cloud AI Journey Meet Up - Image 1" width="800">
 
 <br>
 
-<img src="/NguyenThaiHuy_Workshop/4-EventParticipated/4.1-Event1/anh2.jpg" alt="AWS First Cloud AI Journey Meet Up - Image 2" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/4-EventParticipated/4.1-Event1/anh2.jpg" alt="AWS First Cloud AI Journey Meet Up - Image 2" width="800">
 
 <br>
 
-<img src="/NguyenThaiHuy_Workshop/4-EventParticipated/4.1-Event1/anh3.jpg" alt="AWS First Cloud AI Journey Meet Up - Image 3" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/4-EventParticipated/4.1-Event1/anh3.jpg" alt="AWS First Cloud AI Journey Meet Up - Image 3" width="800">
 
 > The AWS First Cloud AI Journey Meet Up was not only a technology event but also a valuable opportunity to improve my cloud knowledge, professional mindset, and communication skills.

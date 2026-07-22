@@ -25,9 +25,9 @@ Cấu hình VPC như sau:
 | **IPv4 CIDR block** | `10.0.0.0/16` |
 | **Region** | `ap-southeast-1` |
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/vpc1.png" alt="Tạo CyberNet VPC" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.3-S3-vpc/vpc1.png" alt="Tạo CyberNet VPC" width="800">
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/vpc2.png" alt="Resource Map VPC" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.3-S3-vpc/vpc2.png" alt="Resource Map VPC" width="800">
 ---
 
 ## 2. Tạo Subnet
@@ -39,7 +39,7 @@ Tạo một public subnet và một private subnet cho CyberNet VPC.
 | `cybernet-public-subnet` | `10.0.1.0/24` | Tài nguyên public |
 | `cybernet-private-subnet` | `10.0.2.0/24` | Tài nguyên backend riêng tư |
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/subnet.png" alt="Resource Map VPC" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.3-S3-vpc/subnet.png" alt="Resource Map VPC" width="800">
 
 ---
 
@@ -51,7 +51,7 @@ Tạo Internet Gateway và gắn vào CyberNet VPC.
 | :--- | :--- |
 | **Internet Gateway** | `cybernet-igw` |
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/getway.png" alt="Resource Map VPC" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.3-S3-vpc/getway.png" alt="Resource Map VPC" width="800">
 
 ---
 
@@ -64,7 +64,7 @@ Tạo public route table và thêm route ra Internet Gateway.
 | `10.0.0.0/16` | Local |
 | `0.0.0.0/0` | `cybernet-igw` |
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.3-S3-vpc/route.png" alt="Resource Map VPC" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.3-S3-vpc/route.png" alt="Resource Map VPC" width="800">
 
 Liên kết route table này với:
 

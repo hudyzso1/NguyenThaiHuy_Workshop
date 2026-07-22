@@ -44,4 +44,4 @@ Amazon DynamoDB will be used to store machines, products, orders, chat messages,
 
 #### CyberNet Cloud overall architecture
 
-![CyberNet Cloud Overall Architecture](/NguyenThaiHuy_Workshop/2-Proposal/cybernet-architecture.png)
+![CyberNet Cloud Overall Architecture](/NguyenThaiHuy_Workshop/images/2-Proposal/cybernet-architecture.png)

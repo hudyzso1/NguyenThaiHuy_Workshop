@@ -25,7 +25,7 @@ Configure the Lambda Function as follows:
 | **Architecture** | x86_64 |
 | **Execution role** | Create a new role with basic Lambda permissions |
 
-<img src="/NguyenThaiHuy_Workshop/5-Workshop/5.5-backend-api-lambda-payos/1.png" alt="Create Lambda Function for CyberNet" width="800">
+<img src="/NguyenThaiHuy_Workshop/images/5-Workshop/5.5-backend-api-lambda-payos/1.png" alt="Create Lambda Function for CyberNet" width="800">
 
 ---
 

@@ -33,12 +33,12 @@ The size of the logo will adapt automatically
 
 ## Change the favicon
 
-If your favicon is a png, just drop off your image in your local `static/NguyenThaiHuy_Workshop/` folder and name it `favicon.png`
+If your favicon is a png, just drop off your image in your local `static/NguyenThaiHuy_Workshop/images/` folder and name it `favicon.png`
 
 If you need to change this default behavior, create a new file in `layouts/partials/` named `favicon.html`. Then write something like this:
 
 ```html
-<link rel="shortcut icon" href="/NguyenThaiHuy_Workshop/favicon.png" type="image/x-icon" />
+<link rel="shortcut icon" href="/NguyenThaiHuy_Workshop/images/favicon.png" type="image/x-icon" />
 ```
 
 ## Change default colors {#theme-variant}
@@ -53,7 +53,7 @@ If you need to change this default behavior, create a new file in `layouts/parti
   themeVariant = "red"
 ```
 
-![Red variant](/en/basics/style-customization/NguyenThaiHuy_Workshop/red-variant.png?width=60pc)
+![Red variant](/en/basics/style-customization/NguyenThaiHuy_Workshop/images/red-variant.png?width=60pc)
 
 ### Blue variant
 
@@ -63,7 +63,7 @@ If you need to change this default behavior, create a new file in `layouts/parti
   themeVariant = "blue"
 ```
 
-![Blue variant](/en/basics/style-customization/NguyenThaiHuy_Workshop/blue-variant.png?width=60pc)
+![Blue variant](/en/basics/style-customization/NguyenThaiHuy_Workshop/images/blue-variant.png?width=60pc)
 
 ### Green variant
 
@@ -73,7 +73,7 @@ If you need to change this default behavior, create a new file in `layouts/parti
   themeVariant = "green"
 ```
 
-![Green variant](/en/basics/style-customization/NguyenThaiHuy_Workshop/green-variant.png?width=60pc)
+![Green variant](/en/basics/style-customization/NguyenThaiHuy_Workshop/images/green-variant.png?width=60pc)
 
 ### 'Yours‘ variant
 
