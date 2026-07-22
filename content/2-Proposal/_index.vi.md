@@ -69,7 +69,7 @@ Luồng tổng quan của hệ thống:
 10. Admin Dashboard lấy trạng thái máy và ảnh mới nhất để phục vụ giám sát.
 11. Payment Lambda tích hợp PayOS để tạo link thanh toán và xử lý webhook.
 12. CloudWatch ghi log, metrics và cảnh báo lỗi hệ thống.
-
+![CyberNet Cloud Architecture](/NguyenThaiHuy_Workshop/images/2-Proposal/cybernet-architecture.png)
 
 #### Dịch vụ AWS sử dụng
 
